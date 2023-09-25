@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-decouple
+llama-index
+pypdf
+python-multipart
+transformers
+pinecone-client
