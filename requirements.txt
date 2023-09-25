@@ -6,3 +6,7 @@ pypdf
 python-multipart
 transformers
 pinecone-client
+
+# IPYNB Loader
+nbconvert
+ipython

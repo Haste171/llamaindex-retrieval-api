@@ -11,7 +11,7 @@
 http://localhost:8000/docs
 
 # Loaders
-`PDF`
+`PDF` `DOCX` `IPYNB`
 
 # TODO
 - Add API endpoint for chatting with content (chat history etc.) ref. https://gpt-index.readthedocs.io/en/stable/core_modules/query_modules/chat_engines/usage_pattern.html
