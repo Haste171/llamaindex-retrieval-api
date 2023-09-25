@@ -1,5 +1,5 @@
 import tempfile, os
-from routers.retrievers.utils.engine import Engine
+from routers.utils.engine import Engine
 from llama_index import download_loader
 from fastapi import APIRouter, UploadFile, HTTPException
 

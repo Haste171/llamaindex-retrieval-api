@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
-from routers.retrievers.utils.engine import Engine
+from routers.utils.engine import Engine
 
 query_engine = Engine()
 router = APIRouter()
