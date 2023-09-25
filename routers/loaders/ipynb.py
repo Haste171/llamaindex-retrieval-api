@@ -10,7 +10,7 @@ router = APIRouter()
 @router.post("/ipynb")
 async def file(upload_file: UploadFile, namespace: str):
     """
-    Loader: 
+    Loader: https://llamahub.ai/l/file-ipynb
     """
     file_preview_name, file_extension = os.path.splitext(upload_file.filename)
     if file_extension != '.ipynb':
